@@ -330,3 +330,7 @@ rtmp_auto_push directive.
             }
         }
     }
+
+    
+    
+    #add by kmclfy
